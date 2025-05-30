@@ -4,12 +4,12 @@
 <add sel="/index">
 	<!-- weapons use value of existing assets, we only want to add new weapons with existing assets and tweak the values -->
 	<!-- Xenon S weapons -->
-	<entry name="weapon_xen_s_gatling_01_mk2" value="extensions\more_xenon_ship_components_test\assets\props\WeaponSystems\heavy\weapon_xen_s_gatling_01_mk2"/>
+	<entry name="weapon_xen_s_gatling_01_sah_mk2" value="extensions\more_xenon_ship_components_test\assets\props\WeaponSystems\heavy\weapon_xen_s_gatling_01_sah_mk2"/>
 
 	<!--<entry name="weapon_xen_s_gatling_01_mk1" value="assets\props\WeaponSystems\heavy\weapon_xen_s_gatling_01_mk1"/> -->
-	<entry name="bullet_xen_s_gatling_01_mk2" value="extensions\more_xenon_ship_components_test\assets\fx\weaponFx\bullet_xen_s_gatling_01_mk2"/>
-	<entry name="muzzle_xen_s_gatling_01_mk2" value="extensions\more_xenon_ship_components_test\assets\fx\weaponFx\muzzle_xen_s_gatling_01_mk2"/>
-	<entry name="impact_xen_s_gatling_01_mk2" value="extensions\more_xenon_ship_components_test\assets\fx\weaponFx\impact_xen_s_gatling_01_mk2"/>
+	<entry name="bullet_xen_s_gatling_01_sah_mk2" value="extensions\more_xenon_ship_components_test\assets\fx\weaponFx\bullet_xen_s_gatling_01_sah_mk2"/>
+	<entry name="muzzle_xen_s_gatling_01_sah_mk2" value="extensions\more_xenon_ship_components_test\assets\fx\weaponFx\muzzle_xen_s_gatling_01_sah_mk2"/>
+	<entry name="impact_xen_s_gatling_01_sah_mk2" value="extensions\more_xenon_ship_components_test\assets\fx\weaponFx\impact_xen_s_gatling_01_sah_mk2"/>
 	
 	<!-- Xenon S engines -->
 	<!--

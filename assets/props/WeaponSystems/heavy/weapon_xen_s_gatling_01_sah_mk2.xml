@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported on 2023-08-21 17:09:15-->
 <components>
-  <component name="weapon_xen_s_gatling_01_mk2" class="weapon">
+  <component name="weapon_xen_s_gatling_01_sah_mk2" class="weapon">
     <source geometry="assets\props\WeaponSystems\heavy\weapon_xen_s_gatling_01_mk1_data" />
     <layers>
       <layer />

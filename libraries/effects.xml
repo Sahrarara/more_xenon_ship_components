@@ -2,7 +2,7 @@
 <diff>
 <add sel="/effects">
   <!--Xenon S Weapons-->
-  <effect name="muzzle_xen_s_gatling_01_mk2" alignment="object">
+  <effect name="muzzle_xen_s_gatling_01_sah_mk2" alignment="object">
     <elements>
       <!-- Muzzle Smoke-->
       <!-- <element id="1" ref="dummyemitter_macro" forkeffect="laser_muzzle_smoke_01" alignment="object" duration="0.2" minscale="0.7" maxscale="0.7" forklod="none"></element> -->
@@ -17,7 +17,7 @@
     </elements>
   </effect>
 
-  <effect name="stopshooting_xen_s_gatling_01_mk2" alignment="normal" emitterspace="zone">
+  <effect name="stopshooting_xen_s_gatling_01_sah_mk2" alignment="normal" emitterspace="zone">
     <elements>
       <element id="1" ref="effect_dummy_macro" duration="3">
         <sound ref="weapon_xen_s_gatling_01_mk1_stopshooting" />
@@ -25,7 +25,7 @@
     </elements>
   </effect>
 
-  <effect name="impact_xen_s_gatling_01_mk2_base" alignment="normal">
+  <effect name="impact_xen_s_gatling_01_sah_mk2_base" alignment="normal">
     <elements>
       <!-- Impact Geometry -->
       <element id="1" ref="impact_xen_s_gatling_01_mk1_macro" forkeffect="none" duration="0.50" minscale="0.50" maxscale="0.50" fadein="0.1" fadeout="0.4" forklod="none"></element>
@@ -39,7 +39,7 @@
     </elements>
   </effect>
 
-  <effect name="impact_xen_s_gatling_01_mk2" alignment="normal">
+  <effect name="impact_xen_s_gatling_01_sah_mk2" alignment="normal">
     <references>
       <reference effect="impact_xen_s_gatling_01_mk1_base" />
     </references>
@@ -51,7 +51,7 @@
     </elements>
   </effect>
 
-  <effect name="impact_xen_s_gatling_01_mk2_inside" alignment="normal">
+  <effect name="impact_xen_s_gatling_01_sah_mk2_inside" alignment="normal">
     <references>
       <reference effect="impact_xen_s_gatling_01_mk1_base" />
     </references>
@@ -63,7 +63,7 @@
     </elements>
   </effect>
 
-  <effect name="impact_xen_s_gatling_01_mk2_bigobject" alignment="normal">
+  <effect name="impact_xen_s_gatling_01_sah_mk2_bigobject" alignment="normal">
     <references>
       <reference effect="impact_xen_s_gatling_01_mk1_base" />
     </references>
@@ -75,7 +75,7 @@
     </elements>
   </effect>
 
-  <effect name="impact_xen_s_gatling_01_mk2_bigobject_inside" alignment="normal">
+  <effect name="impact_xen_s_gatling_01_sah_mk2_bigobject_inside" alignment="normal">
     <references>
       <reference effect="impact_xen_s_gatling_01_mk1_base" />
     </references>

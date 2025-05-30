@@ -3,7 +3,7 @@
   <add sel="//soundlibrary">
   
     <!--Xenon S Weapons-->
-	<sound id="weapon_xen_s_gatling_mk2_muzzle" description="S Old terraformer Needler Gun" repeat="1" is3d="1" preload="0">
+	<sound id="weapon_xen_s_gatling_sah_mk2_muzzle" description="S Old terraformer Needler Gun" repeat="1" is3d="1" preload="0">
 		<sample selection="random">
 		  <select start="sfx\weapons\needler_gun\needler_gun_01"/>
 		  <select start="sfx\weapons\needler_gun\needler_gun_02"/>
@@ -27,7 +27,7 @@
 		</effects>
 	</sound>
 
-	<sound id="weapon_xen_s_gatling_01_mk2_stopshooting" description="S Old terraformer Needler Gun" repeat="1" is3d="1" preload="0">
+	<sound id="weapon_xen_s_gatling_01_sah_mk2_stopshooting" description="S Old terraformer Needler Gun" repeat="1" is3d="1" preload="0">
 		<sample start="sfx\weapons\mg\wpn_gatling_stopshooting"/>
 		<volume start="0.5" distance="1"/>
 	</sound>

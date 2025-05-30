@@ -3,7 +3,7 @@
 <diff>
   	<add sel="/index">
 	<!-- Xenon S Weapons -->
-	<entry name="weapon_xen_s_gatling_01_mk2_macro" value="extensions\more_xenon_ship_components_test\assets\props\WeaponSystems\heavy\macros\weapon_xen_s_gatling_01_mk2_macro" />
+	<entry name="weapon_xen_s_gatling_01_sah_mk2_macro" value="extensions\more_xenon_ship_components_test\assets\props\WeaponSystems\heavy\macros\weapon_xen_s_gatling_01_sah_mk2_macro" />
 	
 	
 	<!-- Xenon M Weapons -->
