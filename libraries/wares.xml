@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+<add sel="/wares">  
+<!--Xenon S weapons-->
+  <ware id="weapon_xen_s_gatling_01_mk2" name="{20105,1574}" description="{20105,1572}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+    <price min="4067" average="4900" max="5733" />
+    <production time="10" amount="1" method="default" name="{20206,101}">
+      <primary>
+        <ware ware="advancedelectronics" amount="10" />
+        <ware ware="energycells" amount="10" />
+        <ware ware="weaponcomponents" amount="25" />
+      </primary>
+    </production>
+    <component ref="weapon_xen_s_gatling_01_mk2_macro" />
+    <icon video="weapon_xen_s_laser_01_mk1_macro" />
+    <restriction licence="generaluseequipment" />
+    <use threshold="0" factions="player" />
+    <owner faction="xenon" />
+  </ware>
+  
+</add>
+</diff>

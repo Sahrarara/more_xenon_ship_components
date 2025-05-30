@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macros>
+  <macro name="weapon_xen_s_gatling_01_mk2_macro" class="weapon">
+    <component ref="weapon_xen_s_gatling_01_mk2" />
+    <properties>
+      <identification name="{20105,1574}" basename="{20105,1571}" shortname="{20105,1575}" makerrace="xenon" description="{20105,1572}" mk="2" />
+      <bullet class="bullet_xen_s_gatling_01_mk2_macro" />
+      <heat overheat="11000" cooldelay="1.10" coolrate="2500" reenable="9000" />
+      <rotationspeed max="125" />
+      <rotationacceleration max="255" />
+      <hull max="1000" hittable="0" />
+    </properties>
+  </macro>
+</macros>
