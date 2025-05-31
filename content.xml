@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content id="Xenon_Equipment test_Test" name="More Xenon Ship Components Test" description="Adds Mk2 and Mk3 ship components for Xenon" author="Sahrarara" version="100" date="2025-05-24" save="0" enabled="1" sync="false" lastupdate="20250524">
+<content id="Xenon_Equipment test_Test" name="More Xenon Ship Components Test" description="Adds Mk2 and Mk3 ship components for Xenon" author="Sahrarara" version="10" date="2025-05-24" save="0" enabled="1" sync="false" lastupdate="20250524">
   <text language="44" name="More Xenon Ship Components Test" description="Adds Mk2 and Mk3 ship components for Xenon" author="Sahrarara"/>
   <text language="49" name="Mehr Xenon Schiffskomponenten Test" description="Fügt Mk II und Mk III Schiffskomponenten für Xenon hinzu" author="Sahrarara"/>
   <dependency id="ego_dlc_split" optional="false" name="Split Vendetta"/>
