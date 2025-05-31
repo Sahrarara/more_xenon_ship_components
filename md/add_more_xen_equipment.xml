@@ -10,9 +10,7 @@
         </conditions>
         <delay exact="1ms"/>
         <actions>
-            <debug_text text="'MD started'"/>
             <do_if value="ware.research_equipment_xenon.research.unlocked">
-                <debug_text text="'Xenon equipment research is unlocked'"/>
                 <add_blueprints wares="ware.weapon_xen_s_gatling_01_sah_mk2"/>
             </do_if>
         </actions>

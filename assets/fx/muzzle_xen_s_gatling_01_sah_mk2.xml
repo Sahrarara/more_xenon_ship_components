@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported on 2024-01-23 15:08:49-->
 <components>
-  <component name="muzzle_xen_s_gatling_01_mk2" class="effectobject">
+  <component name="muzzle_xen_s_gatling_01_sah_mk2" class="effectobject">
     <source geometry="assets\fx\weaponFx\muzzle_xen_s_gatling_01_mk1_data" />
     <layers>
       <layer />
