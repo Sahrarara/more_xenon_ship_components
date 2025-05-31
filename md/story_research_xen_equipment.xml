@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="//cue[@name='Research_Finished']/actions">
+                    <add_blueprints wares="ware.weapon_xen_s_gatling_01_sah_mk2"/>
+  </add>
+  <add sel="//cue[@name='Research_Finished_Patch']/actions/do_if">
+                    <add_blueprints wares="ware.weapon_xen_s_gatling_01_sah_mk2"/>
+  </add>
+</diff>

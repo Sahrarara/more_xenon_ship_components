@@ -15,7 +15,7 @@
     <icon video="weapon_xen_s_laser_01_mk1_macro" />
     <restriction licence="generaluseequipment" />
     <use threshold="0" factions="player" />
-    <owner faction="xenon" />
+    <owner faction="player" />
   </ware>
   
 </add>
