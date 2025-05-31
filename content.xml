@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content id="Xenon_Equipment test_Test" name="More Xenon Ship Components Test" description="Adds Mk2 and Mk3 ship components for Xenon" author="Sahrarara" version="10" date="2025-05-24" save="0" enabled="1" sync="false" lastupdate="20250524">
-  <text language="44" name="More Xenon Ship Components Test" description="Adds Mk2 and Mk3 ship components for Xenon" author="Sahrarara"/>
-  <text language="49" name="Mehr Xenon Schiffskomponenten Test" description="Fügt Mk II und Mk III Schiffskomponenten für Xenon hinzu" author="Sahrarara"/>
+<content id="More_Xenon_Ship_Components" name="More Xenon Ship Components" description="Adds Mk2 and Mk3 ship components for Xenon" author="Sahrarara" version="10" date="2025-05-24" save="0" enabled="1" sync="false" lastupdate="20250524">
+  <text language="44" name="More Xenon Ship Components" description="Adds Mk2 and Mk3 ship components for Xenon" author="Sahrarara"/>
+  <text language="49" name="Mehr Xenon Schiffskomponenten" description="Fügt Mk II und Mk III Schiffskomponenten für Xenon hinzu" author="Sahrarara"/>
   <dependency id="ego_dlc_split" optional="false" name="Split Vendetta"/>
   <dependency id="ego_dlc_terran" optional="false" name="Cradle of Humanity"/>
   <dependency id="ego_dlc_pirate" optional="false" name="Tides of Avarice"/>  
