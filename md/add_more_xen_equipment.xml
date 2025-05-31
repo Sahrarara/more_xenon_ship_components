@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdscript name="XenShipsResearch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="md.xsd">
+  <cues>
+    <cue name ="CheckXenEquipmentResearch" instantiate="true"=>
+        <conditions>
+            <check_any>
+                <event_cue_signalled cue="md.Setup.Start"/>
+                    <event_game_loaded/>
+            </check_any>
+        </conditions>
+        <delay exact="1ms"/>
+        <actions>
+            <do_if value="ware.research_equipment_xenon.research.unlocked">
+                <add_blueprints wares="ware.weapon_xen_s_gatling_01_sah_mk2"/>
+            </do_if>
+        </actions>
+    </cue>
+  </cues>
+</mdscript>
