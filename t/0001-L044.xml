@@ -1,11 +1,11 @@
 <diff>
 	<add sel="/language">
 		<page id="20105" title="Weapons and Turrets" descr="Names and descriptions of weapons and turrets" voice="no">
-			<t id="1576">Needler Gun Mk2</t>
-			<t id="1577">Assistant! I was able to reverse-engineer the Xenon weaponry and found ways to make it even more devastating. It is completely beyond me why the Xenon only ever repurposed their construction needles instead of more destructive bullets! With this version you should be able to wreak even more havoc amongst the Xenon. -Boso Ta</t>
-			<t id="1578">Needler Mk2</t>
-			<t id="1579">(XEN S Needler Gun Mk2){20202,603} {20111,5011} {20105,1571} {20111,201}</t>
-			<t id="1580">(Needler Gun){20105,1576}</t>
+			<t id="50001">Needler Gun Mk2</t>
+			<t id="50002">Assistant! I was able to reverse-engineer the Xenon weaponry and found ways to make it even more devastating. It is completely beyond me why the Xenon only ever repurposed their construction needles instead of more destructive bullets! With this version you should be able to wreak even more havoc amongst the Xenon. -Boso Ta</t>
+			<t id="50003">Needler Mk2</t>
+			<t id="50004">(XEN S Needler Gun Mk2){20202,603} {20111,5011} {20105,1571} {20111,201}</t>
+			<t id="50005">(Needler Gun){20105,1571}</t>
 		</page>
 	</add>
 </diff>
