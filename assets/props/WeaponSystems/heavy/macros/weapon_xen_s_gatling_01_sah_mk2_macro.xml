@@ -3,7 +3,7 @@
   <macro name="weapon_xen_s_gatling_01_sah_mk2_macro" class="weapon">
     <component ref="weapon_xen_s_gatling_01_sah_mk2" />
     <properties>
-      <identification name="{20105,1574}" basename="{20105,1571}" shortname="{20105,1575}" makerrace="xenon" description="{20105,1572}" mk="2" />
+      <identification name="{20105,50004}" basename="{20105,1571}" shortname="{20105,50005}" makerrace="xenon" description="{20105,50002}" mk="2" />
       <bullet class="bullet_xen_s_gatling_01_sah_mk2_macro" />
       <heat overheat="11000" cooldelay="1.10" coolrate="2500" reenable="9000" />
       <rotationspeed max="125" />
