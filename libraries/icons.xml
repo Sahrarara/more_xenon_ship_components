@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+    <add sel="/icons">
+        <icon name="upgrade_*" texture="extensions\more_xenon_ship_components\assets\fx\gui\textures\upgrades\*.tga" height="256" width="256"/>
+    </add>
+</diff>
