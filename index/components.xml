@@ -9,7 +9,7 @@
 	<!--<entry name="weapon_xen_s_gatling_01_mk1" value="assets\props\WeaponSystems\heavy\weapon_xen_s_gatling_01_mk1"/> -->
 	<entry name="bullet_xen_s_gatling_01_sah_mk2" value="assets\fx\weaponFx\bullet_xen_s_gatling_01_mk1"/>
 	<entry name="muzzle_xen_s_gatling_01_sah_mk2" value="assets\fx\weaponFx\muzzle_xen_s_gatling_01_mk1"/>
-	<entry name="impact_xen_s_gatling_01_sah_mk2" value="assets\fx\weaponFx\impact_xen_s_gatling_01_km1"/>
+	<entry name="impact_xen_s_gatling_01_sah_mk2" value="assets\fx\weaponFx\impact_xen_s_gatling_01_mk1"/>
 	
 	<!-- Xenon S engines -->
 	<!--
