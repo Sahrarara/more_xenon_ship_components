@@ -1,0 +1,36 @@
+<!-- <?xml version="1.0" encoding="utf-8"?>-->
+<diff>
+  <add sel="//soundlibrary">
+  
+    <!--Xenon S Weapons-->
+	<sound id="weapon_xen_s_gatling_sah_mk2_muzzle" description="S Old terraformer Needler Gun" repeat="1" is3d="1" preload="0">
+		<sample selection="random">
+		  <select start="sfx\weapons\needler_gun\needler_gun_01"/>
+		  <select start="sfx\weapons\needler_gun\needler_gun_02"/>
+		  <select start="sfx\weapons\needler_gun\needler_gun_03"/>
+		  <select start="sfx\weapons\needler_gun\needler_gun_04"/>
+		  <select start="sfx\weapons\needler_gun\needler_gun_05"/>
+		  <select start="sfx\weapons\needler_gun\needler_gun_06"/>
+		  <select start="sfx\weapons\needler_gun\needler_gun_07"/>
+		  <select start="sfx\weapons\needler_gun\needler_gun_08"/>
+		</sample>
+		<volume start="0.4" distance="10" />
+		<effects>
+		  <filter mode="lowpass" distance="10">
+			<distancecurve>
+			  <point distance="0.0" volume="1.0"/>
+			  <point distance="0.3" volume="0.5"/>
+			  <point distance="0.6" volume="0.1"/>
+			  <point distance="1.0" volume="0.05"/>
+			</distancecurve>
+		  </filter>
+		</effects>
+	</sound>
+
+	<sound id="weapon_xen_s_gatling_01_sah_mk2_stopshooting" description="S Old terraformer Needler Gun" repeat="1" is3d="1" preload="0">
+		<sample start="sfx\weapons\mg\wpn_gatling_stopshooting"/>
+		<volume start="0.5" distance="1"/>
+	</sound>
+	
+  </add>
+</diff>
