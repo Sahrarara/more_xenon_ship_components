@@ -12,6 +12,7 @@
         <actions>
             <do_if value="ware.research_equipment_xenon.research.unlocked">
                 <add_blueprints wares="ware.weapon_xen_s_gatling_01_sah_mk2"/>
+                <add_blueprints wares="ware.weapon_xen_s_gatling_01_sah_mk3"/>
             </do_if>
         </actions>
     </cue>
