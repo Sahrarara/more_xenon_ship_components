@@ -19,7 +19,7 @@
 	<!-- Xenon L Shields -->
 	
 	<!-- Xenon S Engines -->
-	
+	<entry name="engine_xen_s_combat_01_sah_mk2_macro" value="assets\props\engines\macros\engine_xen_s_combat_01_sah_mk2_macro" />
 	<!-- Xenon M Engines -->
 	
 	<!-- Xenon L Engines -->

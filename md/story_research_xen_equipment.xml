@@ -3,5 +3,6 @@
   <add sel="//cue[@name='Research_Finished_Patch']/actions/do_if">
                     <add_blueprints wares="ware.weapon_xen_s_gatling_01_sah_mk2"/>
                     <add_blueprints wares="ware.weapon_xen_s_gatling_01_sah_mk3"/>
+                    <add_blueprints wares="ware.engine_xen_s_combat_01_sah_mk2"/>
   </add>
 </diff>

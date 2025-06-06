@@ -33,6 +33,24 @@
     <use threshold="0" factions="player" />
     <owner faction="player" />
   </ware>
+
+
+<!--Xenon S Engines-->
+  <ware id="engine_xen_s_combat_01_sah_mk2" name="{20107,1234}" description="{20107,1232}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+    <price min="6134" average="6816" max="7498" />
+    <production time="2" amount="1" method="default" name="{20206,101}" dismantlefactor="10">
+      <primary>
+        <ware ware="energycells" amount="20" />
+        <ware ware="ore" amount="7" />
+        <ware ware="silicon" amount="7" />
+      </primary>
+    </production>
+    <component ref="engine_xen_s_combat_01_sah_mk2_macro" />
+    <icon video="engine_xen_s_virtual_01_mk1_video_macro" />
+    <restriction licence="generaluseequipment" />
+    <use threshold="0" factions="player" />
+    <owner faction="player" />
+  </ware>
   
 </add>
 </diff>
